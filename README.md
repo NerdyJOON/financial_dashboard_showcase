@@ -20,7 +20,7 @@ Visualizing departmental budget vs. actual performance using Python and FP&A met
 | **2** | `variance_analysis.pbix` | Interactive Power BI dashboard file | [📥](./variance_analysis.pbix) |
 | **3** | `variance_analysis_dashboard.pdf` | Full executive dashboard including bar, heatmap, box plot, and waterfall charts |
 | **4** | `variance_analysis_drill_down_to_single_department.pdf` | Dashboard view filtered by single department drill-down |
-| **5** | `variance_analysis_multiselect_first_four_months.pdf` | Dashboard view filtered by the 4 four months |
+| **5** | `variance_analysis_multiselect_first_four_months.pdf` | Dashboard view filtered by the first 4 months |
 
 ---
 
@@ -34,7 +34,7 @@ Visualizing departmental budget vs. actual performance using Python and FP&A met
 
   ---
 
-## Sample Visuls
+## Sample Visuals
 
 | Full Executive Dashboard |
 |--------|
