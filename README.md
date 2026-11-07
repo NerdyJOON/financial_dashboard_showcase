@@ -4,14 +4,6 @@ Visualizing departmental budget vs. actual performance using Python and FP&A met
 
 ---
 
-## Who Is This Project For?
-
-- Finance & FP&A teams analyzing budget vs. actual performance 
-- Candidates preparing for finance case-study interviews 
-- Analysts showcasing data visualization and story-telling capability
-
----
-
 ## What’s Inside
 
 | # | File | Description | Download |
